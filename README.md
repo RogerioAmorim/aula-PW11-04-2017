@@ -16,7 +16,7 @@ No Linux, use `./mvnw` ao invés de apenas `mvnw`, como no Windows. Além disso,
 
 ## Para acessar a Aplicação.
 
-`http://localhost:8080/aula-PW11-04-2017` em qualquer navegador.
+`http://localhost:9090/aula-PW11-04-2017` em qualquer navegador.
 
 ### Para "empacotar" a Aplicação.
 
